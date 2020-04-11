@@ -130,6 +130,7 @@ a:hover {
 }
 
 #changeColor {
+	text-algin: center;
 	margin: 0 auto;	
 	display: inline;
 }
